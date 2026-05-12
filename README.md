@@ -4,7 +4,7 @@ A comparative study of Explainable Artificial Intelligence (XAI) techniques appl
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Notebook | Description |
 |----------|-------------|
@@ -33,7 +33,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost shap lime jupyt
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Option 1: Google Colab (Recommended)
 
@@ -83,14 +83,14 @@ For a full end-to-end understanding, run the notebooks in this order:
 
 ---
 
-## 🔬 XAI Techniques Used
+##  XAI Techniques Used
 
 - **SHAP (SHapley Additive exPlanations):** Global and local feature importance, summary plots, waterfall charts, and dependency plots
 - **LIME (Local Interpretable Model-agnostic Explanations):** Per-instance explanation of individual predictions
 
 ---
 
-## 👥 Team
+##  Team
 
 **Team 13** — Computer Science, Data Science & AI Specialization
 
@@ -102,12 +102,12 @@ For a full end-to-end understanding, run the notebooks in this order:
 
 ---
 
-## 📄 Research Paper
+##  Research Paper
 
 The full methodology, experiments, and results are documented in [`Team13_ResearchPaper.pdf`](./Team13_ResearchPaper.pdf).
 
 ---
 
-## 📜 License
+##  License
 
 This project is for academic purposes only.
